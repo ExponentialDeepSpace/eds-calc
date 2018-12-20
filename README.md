@@ -1,2 +1,2 @@
 # eds-calc
-the online calculator of eds
+the online calculator of eds.
